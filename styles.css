@@ -427,6 +427,7 @@ ul, ol.steps { margin: 0; padding: 0; list-style: none; }
 @media (max-width: 379.98px) {
   .hero .eyebrow { letter-spacing: .07em; font-size: .72rem; gap: .4rem; }
   .hero .eyebrow::before { width: 1rem; }
+  .gallery figcaption { left: .5rem; bottom: .5rem; max-width: calc(100% - 1rem); font-size: .76rem; padding: .35rem .6rem; }
 }
 @media (max-width: 359.98px) {
   .brand-mark { display: none; }
