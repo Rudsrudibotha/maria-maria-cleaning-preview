@@ -5,7 +5,7 @@ Single-page marketing site for Maria Maria Cleaning Services LLC, a house-cleani
 **Live:** https://rudsrudibotha.github.io/maria-maria-cleaning-preview/
 
 ## Structure
-- `index.html` — hero with logo, services, why us, our work gallery, neighbor reviews and award, "We can do it!" band, how to book, service area, free-estimate form (composes an email)
+- `index.html` — hero with logo, services, why us, our work gallery, neighbor reviews and award, "We can do it!" band, how to book (contact info and free-estimate answers), service area, free-estimate form (composes an email), mobile call/email bar
 - `styles.css` — brand stylesheet; palette sampled from the pink logo
 - `script.js` — mobile menu (Escape closes) and estimate form email composer
 - `images/` — optimised JPGs
