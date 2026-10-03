@@ -1,0 +1,26 @@
+Image credits, Maria Maria Cleaning Services
+=============================================
+
+Photos and artwork by Maria Maria Cleaning Services LLC
+(all from our own Nextdoor business page, used with our branding)
+- images/logo.jpg ............... Maria Maria Cleaning Services LLC logo (pink Rosie the Riveter artwork)
+- images/flyer-services.jpg ..... Our services flyer (top section)
+- images/flyer-we-can-do-it.jpg . Our red, yellow and blue "WE CAN DO IT!" flyer
+- images/bathroom-vanity.jpg .... Our job photo: bathroom vanity
+- images/walk-in-shower.jpg ..... Our job photo: walk-in shower
+- images/range-move-out.jpg ..... Our job photo: range and cooktop, move-out cleaning
+- images/gas-stovetop.jpg ....... Our job photo: gas stovetop
+- images/og-image.jpg ........... Social sharing image made from our logo
+
+Stock photography (illustrative only, not our job photos)
+- images/stock-counter-wipe.jpg
+  "A Woman Wiping a Kitchen Counter" by RDNE Stock project
+  https://www.pexels.com/photo/a-woman-wiping-a-kitchen-counter-5591852/
+  Licence: Pexels License (free to use) https://www.pexels.com/license/
+
+- images/stock-east-valley-aerial.jpg
+  "Aerial View of Suburban Arizona Landscape" by Chris The Island
+  https://www.pexels.com/photo/aerial-view-of-suburban-arizona-landscape-34873752/
+  Licence: Pexels License (free to use) https://www.pexels.com/license/
+
+Fonts: Fraunces and Plus Jakarta Sans via Google Fonts (SIL Open Font License).
