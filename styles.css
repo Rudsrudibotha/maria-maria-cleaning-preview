@@ -344,7 +344,7 @@ ul, ol.steps { margin: 0; padding: 0; list-style: none; }
 /* ---------- Responsive ---------- */
 @media (max-width: 1080px) {
   .services-layout { grid-template-columns: 1fr; }
-  .flyer-card { position: static; max-width: 420px; margin-inline: auto; }
+  .flyer-card { position: static; width: 100%; max-width: 420px; margin-inline: auto; }
 }
 @media (max-width: 1023.98px) {
   .nav-toggle { display: inline-flex; }
